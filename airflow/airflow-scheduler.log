@@ -1,0 +1,30 @@
+2025-11-17 15:41:55,190 INFO - Task context logging is enabled
+2025-11-17 15:41:55,191 INFO - Loaded executor: SequentialExecutor
+2025-11-17 15:41:55,222 INFO - Starting the scheduler
+2025-11-17 15:41:55,223 INFO - Processing each file at most -1 times
+2025-11-17 15:41:55,229 INFO - Launched DagFileProcessorManager with pid: 27525
+2025-11-17 15:41:55,234 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-11-17 15:41:55,242 INFO - Configured default timezone UTC
+2025-11-17 15:45:37,166 INFO - Exiting gracefully upon receiving signal 15
+2025-11-17 15:45:37,840 INFO - Sending 15 to group 27525. PIDs of all processes in the group: []
+2025-11-17 15:45:37,840 INFO - Sending the signal 15 to group 27525
+2025-11-17 15:45:37,841 INFO - Sending the signal 15 to process 27525 as process group is missing.
+2025-11-17 15:45:37,847 INFO - Sending 15 to group 27525. PIDs of all processes in the group: []
+2025-11-17 15:45:37,849 INFO - Sending the signal 15 to group 27525
+2025-11-17 15:45:37,849 INFO - Sending the signal 15 to process 27525 as process group is missing.
+2025-11-17 15:45:37,849 INFO - Exited execute loop
+2025-11-17 16:00:35,722 INFO - Task context logging is enabled
+2025-11-17 16:00:35,723 INFO - Loaded executor: SequentialExecutor
+2025-11-17 16:00:35,753 INFO - Starting the scheduler
+2025-11-17 16:00:35,754 INFO - Processing each file at most -1 times
+2025-11-17 16:00:35,758 INFO - Launched DagFileProcessorManager with pid: 40550
+2025-11-17 16:00:35,762 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-11-17 16:00:35,764 INFO - Configured default timezone UTC
+2025-11-17 16:05:13,909 INFO - Exiting gracefully upon receiving signal 15
+2025-11-17 16:05:14,657 INFO - Sending 15 to group 40550. PIDs of all processes in the group: []
+2025-11-17 16:05:14,660 INFO - Sending the signal 15 to group 40550
+2025-11-17 16:05:14,660 INFO - Sending the signal 15 to process 40550 as process group is missing.
+2025-11-17 16:05:14,664 INFO - Sending 15 to group 40550. PIDs of all processes in the group: []
+2025-11-17 16:05:14,666 INFO - Sending the signal 15 to group 40550
+2025-11-17 16:05:14,666 INFO - Sending the signal 15 to process 40550 as process group is missing.
+2025-11-17 16:05:14,666 INFO - Exited execute loop

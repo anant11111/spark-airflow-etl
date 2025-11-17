@@ -1,0 +1,9 @@
+[2025-11-17 16:00:35 +0000] [40548] [INFO] Starting gunicorn 22.0.0
+[2025-11-17 16:00:35 +0000] [40548] [INFO] Listening at: http://[::]:8793 (40548)
+[2025-11-17 16:00:35 +0000] [40548] [INFO] Using worker: sync
+[2025-11-17 16:00:35 +0000] [40549] [INFO] Booting worker with pid: 40549
+[2025-11-17 16:00:35 +0000] [40551] [INFO] Booting worker with pid: 40551
+[2025-11-17 16:05:14 +0000] [40548] [INFO] Handling signal: term
+[2025-11-17 16:05:14 +0000] [40549] [INFO] Worker exiting (pid: 40549)
+[2025-11-17 16:05:14 +0000] [40551] [INFO] Worker exiting (pid: 40551)
+[2025-11-17 16:05:14 +0000] [40548] [INFO] Shutting down: Master
